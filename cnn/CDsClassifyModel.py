@@ -1,7 +1,7 @@
 import tensorflow as tf
 from tensorflow.keras import Model, layers
 
-#hh
+
 class CDsClassifyModel(Model):
     def __init__(self):
         super(CDsClassifyModel, self).__init__()
